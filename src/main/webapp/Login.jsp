@@ -57,5 +57,3 @@ input[type="submit"]:hover {
 
 </body>
 </html>
-
-Lakshya Kumar
